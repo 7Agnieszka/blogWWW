@@ -31,6 +31,10 @@ table {
     text-shadow: 2px 2px 1px gray;
 }
 
+#szczyty{
+overflow-x:auto;
+}
+
 h2 {
     text-align: center;
     color: black;
